@@ -26,7 +26,7 @@ Installation & Setup
 
     • Clone repo: git clone <repo_url>
     • Run `npm install` in project folder
-    • Add Google Maps API key at .env file
+    • Add Google Maps embeded
     • Launch app: npm run dev
     
 Login Credentials
@@ -36,14 +36,14 @@ Login Credentials
     
 Deployment
 
-    https://your-app.vercel.app
+    https://app-dev-final.vercel.app/
     
 Contributions
 
     Member	Role
 
-Leader : Glaines B. Malinao  | Setup, auth, deployment
-Jazel Ann Handig		|Charts, user view
-Le Anne G. Giba		|Form validation, maps
-Cybon Jhon G . Dizon		|Posts, comments, UI
+Leader : Glaines B. Malinao - Setup, auth, deployment
+Jazel Ann Handig - Charts, user view
+Le Anne G. Giba	- Form validation, maps
+Cybon Jhon G . Dizon - Posts, comments, UI
     
